@@ -1,0 +1,3 @@
+/home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/cmake-build-debug/CMakeFiles/Lab8.dir
+/home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+1	115	1711134061540395057	CMakeFiles/Lab8.dir/task1/task1.c.o	1a43b0d3361774b2
+0	32	1711142832235502529	build.ninja	d3e8a8d6e35cc900
+0	116	1711134061540395057	CMakeFiles/Lab8.dir/tasksFromLab6/tasksFromLab6.c.o	d9e71a359a0c1bbb
+1	61	1711142569327093042	CMakeFiles/Lab8.dir/task2/task2.c.o	8ecb2e73a21cd66
+62	92	1711142569357095119	Lab8	618f85a9f8f129fe
+1	73	1711142297086803930	CMakeFiles/Lab8.dir/main.c.o	9cb9be81ad1ae45f
