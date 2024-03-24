@@ -51,25 +51,19 @@ build cmake_object_order_depends_target_Lab8: phony || CMakeFiles/Lab8.dir
 
 build CMakeFiles/Lab8.dir/main.c.o: C_COMPILER__Lab8_unscanned_Debug /home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/main.c || cmake_object_order_depends_target_Lab8
   DEP_FILE = CMakeFiles/Lab8.dir/main.c.o.d
-  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Lab8.dir
   OBJECT_FILE_DIR = CMakeFiles/Lab8.dir
 
-build CMakeFiles/Lab8.dir/tasksFromLab6/tasksFromLab6.c.o: C_COMPILER__Lab8_unscanned_Debug /home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/tasksFromLab6/tasksFromLab6.c || cmake_object_order_depends_target_Lab8
-  DEP_FILE = CMakeFiles/Lab8.dir/tasksFromLab6/tasksFromLab6.c.o.d
-  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/Lab8.dir
-  OBJECT_FILE_DIR = CMakeFiles/Lab8.dir/tasksFromLab6
-
 build CMakeFiles/Lab8.dir/task1/task1.c.o: C_COMPILER__Lab8_unscanned_Debug /home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/task1/task1.c || cmake_object_order_depends_target_Lab8
   DEP_FILE = CMakeFiles/Lab8.dir/task1/task1.c.o.d
-  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Lab8.dir
   OBJECT_FILE_DIR = CMakeFiles/Lab8.dir/task1
 
 build CMakeFiles/Lab8.dir/task2/task2.c.o: C_COMPILER__Lab8_unscanned_Debug /home/modnick/CLionProject/CProjectFirstSemestr/CtFirstSemestr/Lab8/task2/task2.c || cmake_object_order_depends_target_Lab8
   DEP_FILE = CMakeFiles/Lab8.dir/task2/task2.c.o.d
-  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/Lab8.dir
   OBJECT_FILE_DIR = CMakeFiles/Lab8.dir/task2
 
@@ -81,7 +75,7 @@ build CMakeFiles/Lab8.dir/task2/task2.c.o: C_COMPILER__Lab8_unscanned_Debug /hom
 #############################################
 # Link the executable Lab8
 
-build Lab8: C_EXECUTABLE_LINKER__Lab8_Debug CMakeFiles/Lab8.dir/main.c.o CMakeFiles/Lab8.dir/tasksFromLab6/tasksFromLab6.c.o CMakeFiles/Lab8.dir/task1/task1.c.o CMakeFiles/Lab8.dir/task2/task2.c.o
+build Lab8: C_EXECUTABLE_LINKER__Lab8_Debug CMakeFiles/Lab8.dir/main.c.o CMakeFiles/Lab8.dir/task1/task1.c.o CMakeFiles/Lab8.dir/task2/task2.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Lab8.dir
   POST_BUILD = :

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Lab8" targetName="Lab8" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaa03302-9b9d-400f-b486-bce5c0304d78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task1/task1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task1/task1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task2/task2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task2/task2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task3/task3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task3/task3.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task4/task4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab10/task4/task4.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-24b8cfd05f9aba901d41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-22T21-27-12-0244.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Lab8-Debug-8af621d07d7b91594e72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab8.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab8.dir/task1/task1.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab8.dir/task2/task2.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab8.dir/tasksFromLab6/tasksFromLab6.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/task1.c" beforeDir="false" afterPath="$PROJECT_DIR$/task1/task1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/tasks/tasks.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/CMakeFiles/Lab9.dir/tasks/tasks.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/Lab9" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/Lab9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/tasks/tasks.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/tasks/tasks.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/tasks/tasks.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/tasks/tasks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/tasks/tests.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/tasks/tests.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2e8X9EXqFkDIKY4sEA1afqaSp4v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab8" TARGET_NAME="Lab8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab8" RUN_TARGET_NAME="Lab8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa03302-9b9d-400f-b486-bce5c0304d78" name="Changes" comment="" />
+      <created>1711287025286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711287025286</updated>
+      <workItem from="1711287026704" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

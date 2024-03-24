@@ -2,5 +2,5 @@
 #include "tasks/tests.h"
 
 int main() {
-     remoteSubArrTest();
+    dinArrTest();
 }
